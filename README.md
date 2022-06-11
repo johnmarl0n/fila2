@@ -12,7 +12,6 @@
 - Utilização de Styled-Components
 
 # Autor
----
  <h1><b>John Dias 👋🏽 </b></h1></a>
 
 ---
